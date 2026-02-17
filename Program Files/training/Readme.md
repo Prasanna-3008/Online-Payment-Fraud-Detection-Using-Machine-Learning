@@ -1,1 +1,8 @@
+## Dataset
+
+The dataset used for training the model is large and cannot be uploaded directly to GitHub due to size limitations.
+
+📥 **Download Dataset:**  
+[Click here to download the dataset](https://drive.google.com/file/d/1OXmrNpJwU4A9Vtp9ZXpWLAjOOSyisfxY/view?usp=drive_link)
+
 
